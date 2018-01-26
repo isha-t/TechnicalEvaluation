@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Implementation-Title: spring-boot-rest-example
+Implementation-Version: 0.4.0
+Built-By: Ravisha
+Implementation-Vendor-Id: com.isha
+Build-Jdk: 1.8.0_161
+Implementation-URL: http://projects.spring.io/spring-boot/spring-boot-
+ rest-example/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+Main-Class: com.isha.example.Application
+
